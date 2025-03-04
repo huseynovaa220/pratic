@@ -1,3 +1,4 @@
 salam
 hello world
 3cu change
+bu filede nelerse deyisdirilib
